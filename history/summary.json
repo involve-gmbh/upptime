@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 686,
-    "timeDay": 794,
-    "timeWeek": 739,
-    "timeMonth": 698,
-    "timeYear": 686,
+    "time": 684,
+    "timeDay": 546,
+    "timeWeek": 709,
+    "timeMonth": 693,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2021-07-08": 14
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/sharepic.eu",
     "slug": "share-pic",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.52%",
-    "time": 955,
-    "timeDay": 963,
-    "timeWeek": 1045,
-    "timeMonth": 997,
-    "timeYear": 955,
+    "uptimeYear": "99.53%",
+    "time": 952,
+    "timeDay": 824,
+    "timeWeek": 1015,
+    "timeMonth": 989,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2021-07-08": 99,
       "2021-06-10": 232
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 865,
-    "timeDay": 930,
-    "timeWeek": 951,
-    "timeMonth": 880,
+    "timeDay": 862,
+    "timeWeek": 946,
+    "timeMonth": 879,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2021-07-08": 13
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 1042,
-    "timeDay": 1171,
-    "timeWeek": 1100,
-    "timeMonth": 1041,
-    "timeYear": 1042,
+    "time": 1040,
+    "timeDay": 947,
+    "timeWeek": 1068,
+    "timeMonth": 1033,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2021-07-08": 13
     }
