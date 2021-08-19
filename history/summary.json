@@ -4,18 +4,19 @@
     "url": "https://involve.at",
     "icon": "https://favicons.githubusercontent.com/involve.at",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 707,
     "timeDay": 624,
     "timeWeek": 670,
     "timeMonth": 746,
     "timeYear": 707,
     "dailyMinutesDown": {
+      "2021-08-19": 5,
       "2021-07-08": 14
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://sharepic.eu",
     "icon": "https://favicons.githubusercontent.com/sharepic.eu",
     "slug": "share-pic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.68%",
     "time": 948,
     "timeDay": 755,
@@ -36,6 +37,7 @@
     "timeMonth": 955,
     "timeYear": 948,
     "dailyMinutesDown": {
+      "2021-08-19": 3,
       "2021-07-08": 99,
       "2021-06-10": 232
     }
@@ -45,10 +47,10 @@
     "url": "https://erema-group.com",
     "icon": "https://favicons.githubusercontent.com/erema-group.com",
     "slug": "erema-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 883,
@@ -57,6 +59,7 @@
     "timeMonth": 928,
     "timeYear": 883,
     "dailyMinutesDown": {
+      "2021-08-19": 2,
       "2021-07-08": 13
     }
   },
@@ -65,9 +68,9 @@
     "url": "https://primeconcept.at",
     "icon": "https://favicons.githubusercontent.com/primeconcept.at",
     "slug": "primeconcept",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -77,6 +80,7 @@
     "timeMonth": 1055,
     "timeYear": 1043,
     "dailyMinutesDown": {
+      "2021-08-19": 0,
       "2021-07-08": 13
     }
   }
