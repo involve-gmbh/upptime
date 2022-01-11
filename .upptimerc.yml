@@ -11,6 +11,8 @@ sites:
     url: https://erema-group.com
   - name: Primeconcept
     url: https://primeconcept.at
+  - name: Grötzmeier
+    url: https://groetzmeier.at
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
