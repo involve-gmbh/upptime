@@ -102,9 +102,9 @@
     "url": "https://groetzmeier.at",
     "icon": "https://favicons.githubusercontent.com/groetzmeier.at",
     "slug": "groetzmeier",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,6 +113,8 @@
     "timeWeek": 954,
     "timeMonth": 1013,
     "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-06": 0
+    }
   }
 ]
