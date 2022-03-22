@@ -4,9 +4,9 @@
     "url": "https://involve.at",
     "icon": "https://favicons.githubusercontent.com/involve.at",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 823,
     "timeYear": 776,
     "dailyMinutesDown": {
+      "2022-03-22": 0,
       "2021-10-14": 49,
       "2021-08-19": 191,
       "2021-07-08": 14
