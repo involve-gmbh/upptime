@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 792,
-    "timeDay": 1045,
-    "timeWeek": 832,
-    "timeMonth": 862,
-    "timeYear": 802,
+    "time": 795,
+    "timeDay": 1979,
+    "timeWeek": 1007,
+    "timeMonth": 876,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2022-04-06": 58,
       "2022-04-05": 100,
@@ -23,8 +23,7 @@
       "2022-03-25": 11,
       "2022-03-22": 20,
       "2021-10-14": 49,
-      "2021-08-19": 191,
-      "2021-07-08": 14
+      "2021-08-19": 191
     }
   },
   {
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 970,
-    "timeDay": 1114,
-    "timeWeek": 910,
-    "timeMonth": 1021,
-    "timeYear": 975,
+    "time": 971,
+    "timeDay": 1288,
+    "timeWeek": 978,
+    "timeMonth": 1028,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2022-04-06": 58,
       "2022-04-05": 100,
@@ -53,8 +52,7 @@
       "2021-12-22": 1,
       "2021-11-23": 11,
       "2021-10-14": 49,
-      "2021-08-19": 189,
-      "2021-07-08": 99
+      "2021-08-19": 189
     }
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1065,
-    "timeDay": 1294,
-    "timeWeek": 1108,
-    "timeMonth": 1189,
-    "timeYear": 1084,
+    "time": 1066,
+    "timeDay": 1332,
+    "timeWeek": 1162,
+    "timeMonth": 1196,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2022-06-01": 9,
       "2022-04-06": 57,
@@ -83,8 +81,7 @@
       "2022-01-13": 14,
       "2021-10-14": 49,
       "2021-10-07": 11,
-      "2021-08-19": 188,
-      "2021-07-08": 13
+      "2021-08-19": 188
     }
   },
   {
@@ -98,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1031,
-    "timeDay": 927,
-    "timeWeek": 885,
-    "timeMonth": 921,
-    "timeYear": 1031,
+    "time": 1032,
+    "timeDay": 1334,
+    "timeWeek": 945,
+    "timeMonth": 937,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2022-04-06": 57,
       "2022-04-05": 88,
@@ -113,8 +110,7 @@
       "2021-12-07": 12,
       "2021-10-14": 49,
       "2021-09-21": 17,
-      "2021-08-19": 186,
-      "2021-07-08": 13
+      "2021-08-19": 186
     }
   },
   {
@@ -123,16 +119,16 @@
     "icon": "https://favicons.githubusercontent.com/groetzmeier.at",
     "slug": "groetzmeier",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 1063,
-    "timeDay": 1111,
-    "timeWeek": 968,
-    "timeMonth": 1086,
-    "timeYear": 1063,
+    "uptimeYear": "99.90%",
+    "time": 1064,
+    "timeDay": 1292,
+    "timeWeek": 1023,
+    "timeMonth": 1092,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2022-04-06": 56,
       "2022-04-05": 87,
