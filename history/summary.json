@@ -10,18 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 936,
-    "timeDay": 878,
-    "timeWeek": 979,
+    "time": 937,
+    "timeDay": 960,
+    "timeWeek": 993,
     "timeMonth": 969,
-    "timeYear": 951,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2024-07-20": 9,
       "2024-02-15": 20,
       "2023-12-17": 325,
       "2023-12-16": 37,
-      "2023-12-15": 33,
-      "2023-11-13": 17
+      "2023-12-15": 33
     }
   },
   {
@@ -35,17 +34,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1078,
-    "timeDay": 1173,
-    "timeWeek": 1286,
-    "timeMonth": 1116,
-    "timeYear": 1084,
+    "time": 1077,
+    "timeDay": 1158,
+    "timeWeek": 1247,
+    "timeMonth": 1121,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2024-07-20": 8,
       "2023-12-17": 324,
       "2023-12-16": 37,
-      "2023-12-15": 33,
-      "2023-11-13": 16
+      "2023-12-15": 33
     }
   },
   {
@@ -59,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1442,
-    "timeDay": 1381,
+    "time": 1441,
+    "timeDay": 1666,
     "timeWeek": 1544,
-    "timeMonth": 1583,
+    "timeMonth": 1584,
     "timeYear": 1487,
     "dailyMinutesDown": {
       "2024-08-11": 38,
@@ -84,9 +82,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
     "time": 1170,
-    "timeDay": 1608,
-    "timeWeek": 1515,
-    "timeMonth": 1330,
+    "timeDay": 1312,
+    "timeWeek": 1525,
+    "timeMonth": 1331,
     "timeYear": 1187,
     "dailyMinutesDown": {
       "2024-10-31": 29,
@@ -112,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.87%",
-    "time": 1156,
-    "timeDay": 1088,
-    "timeWeek": 1164,
-    "timeMonth": 1368,
-    "timeYear": 1172,
+    "time": 1157,
+    "timeDay": 1232,
+    "timeWeek": 1191,
+    "timeMonth": 1369,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2024-10-16": 272,
       "2024-08-13": 9,
